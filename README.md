@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokendar97
+- 👋 Hi, I’m @lokendar
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python , machine learning ...

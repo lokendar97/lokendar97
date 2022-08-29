@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lokendar
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML,DL
 - 💞️ I’m looking to collaborate on python , machine learning ...
 - 📫 How to reach me lokendar7991@gmail.com
 
